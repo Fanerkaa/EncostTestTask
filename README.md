@@ -108,7 +108,7 @@ df['processed_text'].to_csv('encost.txt', index=False, header=False, mode='a')
 
 **Что бы вы ответили клиенту? С чего бы начали проверку?**
 
-<img align="left" alt="PNG" src=" https://github.com/Fanerkaa/png/blob/main/encost.png?raw=true" width="500" height="320" />
+[Картинка](https://github.com/Fanerkaa/png/blob/main/encost.png)
 
 *Мы постараемся разобраться в ситуации, я буду держать вас в курсе новостей*
 
