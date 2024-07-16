@@ -90,7 +90,6 @@ import pandas as pd
 file_path = 'encost_test.txt'
 
 # Функция для обработки каждой строки
-
 def process_line(line):
     processed_line = line
     return processed_line
@@ -109,7 +108,7 @@ df['processed_text'].to_csv('encost.txt', index=False, header=False, mode='a')
 
 **Что бы вы ответили клиенту? С чего бы начали проверку?**
 
-(картинка)
+<img align="left" alt="PNG" src=" https://github.com/Fanerkaa/png/blob/main/encost.png?raw=true" width="500" height="320" />
 
 *Мы постараемся разобраться в ситуации, я буду держать вас в курсе новостей*
 
